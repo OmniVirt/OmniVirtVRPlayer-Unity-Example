@@ -1,0 +1,102 @@
+fileFormatVersion: 2
+guid: 82c103f4ac83e4770b4e9b9f4b861fa9
+timeCreated: 1502419142
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: notifications_alert_android
+    21300002: notifications_alert_ios
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: notifications_alert_android
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 142
+        width: 512
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -247, y: 48}
+        - {x: -247, y: -47}
+        - {x: 244, y: -47}
+        - {x: 246, y: -45}
+        - {x: 246, y: 46}
+        - {x: 244, y: 48}
+    - name: notifications_alert_ios
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 512
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 240, y: 61}
+        - {x: 235, y: 66}
+        - {x: 230, y: 68}
+        - {x: -231, y: 68}
+        - {x: -236, y: 66}
+        - {x: -241, y: 61}
+        - {x: -243, y: 56}
+        - {x: -243, y: -52}
+        - {x: -241, y: -57}
+        - {x: -236, y: -62}
+        - {x: -231, y: -64}
+        - {x: 230, y: -64}
+        - {x: 235, y: -63}
+        - {x: 242, y: -54}
+        - {x: 242, y: 56}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,170 @@
+fileFormatVersion: 2
+guid: 08d0ac140496c47e1979f82276412ffe
+timeCreated: 1502171600
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: text_on_btn_visit
+    21300002: text_on_btn_not_now
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: text_on_btn_visit
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 177
+        width: 256
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 12}
+        - {x: -3, y: -20}
+        - {x: 14, y: -20}
+        - {x: 18, y: -18}
+        - {x: 18, y: 12}
+      - - {x: 32, y: 19}
+        - {x: 29, y: 14}
+        - {x: 29, y: -8}
+        - {x: 35, y: -20}
+        - {x: 50, y: -20}
+        - {x: 50, y: 17}
+        - {x: 43, y: 19}
+      - - {x: -48, y: 21}
+        - {x: -49, y: 19}
+        - {x: -49, y: 8}
+        - {x: -42, y: -17}
+        - {x: -36, y: -19}
+        - {x: -26, y: -19}
+        - {x: -24, y: -13}
+        - {x: -15, y: 18}
+        - {x: -15, y: 21}
+      - - {x: -14, y: -19}
+        - {x: -5, y: -19}
+        - {x: -5, y: 12}
+        - {x: -14, y: 12}
+      - - {x: 22, y: 12}
+        - {x: 20, y: 10}
+        - {x: 20, y: -17}
+        - {x: 22, y: -19}
+        - {x: 27, y: -19}
+        - {x: 29, y: -17}
+        - {x: 29, y: 10}
+        - {x: 27, y: 12}
+      - - {x: -12, y: 23}
+        - {x: -15, y: 20}
+        - {x: -15, y: 16}
+        - {x: -12, y: 13}
+        - {x: -8, y: 13}
+        - {x: -5, y: 16}
+        - {x: -5, y: 20}
+        - {x: -8, y: 23}
+      - - {x: 20, y: 23}
+        - {x: 19, y: 20}
+        - {x: 19, y: 14}
+        - {x: 22, y: 13}
+        - {x: 28, y: 13}
+        - {x: 29, y: 16}
+        - {x: 29, y: 22}
+        - {x: 26, y: 23}
+    - name: text_on_btn_not_now
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 95
+        width: 256
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -66, y: 13}
+        - {x: -68, y: 12}
+        - {x: -68, y: -12}
+        - {x: -65, y: -19}
+        - {x: -43, y: -19}
+        - {x: -38, y: -14}
+        - {x: -38, y: 4}
+        - {x: -40, y: 13}
+      - - {x: -36, y: 20}
+        - {x: -38, y: 19}
+        - {x: -40, y: 11}
+        - {x: -40, y: 1}
+        - {x: -36, y: -15}
+        - {x: -32, y: -18}
+        - {x: -28, y: -19}
+        - {x: -19, y: -19}
+        - {x: -19, y: 18}
+        - {x: -24, y: 20}
+      - - {x: 54, y: 13}
+        - {x: 35, y: 13}
+        - {x: 29, y: 9}
+        - {x: 29, y: -12}
+        - {x: 32, y: -19}
+        - {x: 54, y: -19}
+        - {x: 59, y: -10}
+        - {x: 59, y: 4}
+      - - {x: -101, y: 22}
+        - {x: -101, y: -18}
+        - {x: -69, y: -18}
+        - {x: -69, y: 22}
+      - - {x: -4, y: 22}
+        - {x: -4, y: -18}
+        - {x: 28, y: -18}
+        - {x: 28, y: 22}
+      - - {x: 57, y: 13}
+        - {x: 57, y: 2}
+        - {x: 65, y: -18}
+        - {x: 94, y: -18}
+        - {x: 101, y: 4}
+        - {x: 101, y: 13}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
