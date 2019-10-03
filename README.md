@@ -20,7 +20,7 @@ Content is now ready. It is time to work on Unity editor.
 
 ## Add the OmniVirt SDK to your project
 
-1) Download [OmniVirtSDK.unitypackage](https://github.com/OmniVirt/OmniVirtVRPlayer-Unity-Example/raw/master/OmniVirtSDK.unitypackage)
+1) Download [OmniVirtSDK.unitypackage](https://static.omnivirt.com/sdk/unity/v2.5.4/OmniVirtSDK.unitypackage)
 
 2) Import it to your Unity project via **Assets -> Import Package -> Custom Package** menu.
 
